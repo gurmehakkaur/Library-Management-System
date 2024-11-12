@@ -15,9 +15,9 @@
 
 3. Compile the Java files:
 ```bash
-   g++ *.cpp -o LibraryManagementSystem
+   g++ *.cpp -o Library-Management-System
 ```
 
 4. Run the application:
 ```bash
-   ./LibraryManagementSystem
+   ./Library-Management-System
